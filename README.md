@@ -22,7 +22,7 @@ The target attribute is **Outcome**:
 - `1` = Patient has diabetes.
 - `0` = Patient does not have diabetes.
 
-You can download the dataset [here](./diabetes.csv).
+You can download the dataset [here](data/diabetes.csv).
 
 ---
 
